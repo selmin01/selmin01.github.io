@@ -1,4 +1,4 @@
-# Gabriel Anselmo 
+# Gabriel Anselmo Ramos
 
 Esse é meu site de portfolio, sou programador, estudante de ciencia da computação - UDESC
 mineiro de Belo Horizonte 
@@ -30,14 +30,14 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
 
-Email: anselmogabriel421@gmail.com
+Email: [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
 
 Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
 
 ## Contato
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](+55 47 99227 2731) 
 
 <hr>
 **ASS: Gabriel Anselmo Ramos**
