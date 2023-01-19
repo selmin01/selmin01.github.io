@@ -17,6 +17,17 @@ Algumas tecnologias que estou estudando:
 - Java
 - C
 
+### Escolaridade
+
+CURSANDO CIÊNCIA DA COMPUTAÇÃO – UDESC (6º PERÍODO)
+SENAI-SC - CURSO TÉCNICO EM INFORMÁTICA
+3º ANO ENSINO MEDIO - EEB PROF. GERMANO TIMM
+1º E 2º ANO ENSINO MEDIO - ESCOLA ESTADUAL TRES PODERES
+
+### Habilidades e Competências
+
+Software Developer (programador), facilidade no uso de computadores (Windows e Linux), Técnico em Informática – SENAI-SC, Parcerias Estratégicas empreendedorismo e inovação.
+
 ### Pessoal
 
 
@@ -32,3 +43,4 @@ Imagem: click aqui!
 ## Contato
 
 Telefone: (47)99227-2731 - Email: anselmogabriel421@gmail.com
+ASS: Gabriel Anselmo Ramos
