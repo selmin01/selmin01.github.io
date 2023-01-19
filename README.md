@@ -29,7 +29,8 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
-ASS: Gabriel Anselmo Ramos
+
+Email: anselmogabriel421@gmail.com
 
 Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
@@ -39,5 +40,5 @@ Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() 
 
 <hr>
+**ASS: Gabriel Anselmo Ramos**
 
-Email: anselmogabriel421@gmail.com
