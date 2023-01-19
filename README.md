@@ -23,12 +23,14 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 
 ## Experiência e conhecimentos
 
-⚒️ Linguagens de programação – (C, Java - Orientado a objeto, HTML, CSS, JavaScript, PHP e Haskell)
-⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
-⚒️ Framework angular e Laravel
-⚒️ Participação no Startup Weekend 2022 – Joinville
-⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
-
+<div>
+ ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, HTML, CSS, JavaScript, PHP e Haskell)
+ ⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
+ ⚒️ Framework angular e Laravel
+ ⚒️ Participação no Startup Weekend 2022 – Joinville
+ ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
+</div>
+  
 ### Pessoal
 
 
@@ -48,7 +50,7 @@ Projects by selmin01 can be found on GitHub
 
 ## Contato
 
-[![Telegram]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white))]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 
 Telefone: (47)99227-2731 - Email: anselmogabriel421@gmail.com
