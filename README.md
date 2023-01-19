@@ -8,7 +8,7 @@ mineiro de Belo Horizonte
 - Crescer no mercado de trabalho e adquirir novos conhecimentos.
 - Torna-me um bom profissional através de novas experiências.
 - Desejo fazer parte do time da empresa oferecendo o melhor.
-- A ordem da empresa ao cargo que me for sugerido.
+- A ordem da empresa ao cargo que me for servido.
 
 ### Escolaridade
 
@@ -29,7 +29,8 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
-ASS: Gabriel Anselmo Ramos <br>
+ASS: Gabriel Anselmo Ramos
+
 Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
 
@@ -37,5 +38,6 @@ Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() 
 
-Email: anselmogabriel421@gmail.com
+<hr>
 
+Email: anselmogabriel421@gmail.com
