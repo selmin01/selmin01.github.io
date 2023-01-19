@@ -3,7 +3,7 @@
 Esse é meu site de portfolio, sou programador, estudante de ciencia da computação - UDESC
 mineiro de Belo Horizonte 
 
-Objetivo
+### Objetivo
 
 - Crescer no mercado de trabalho e adquirir novos conhecimentos.
 - Torna-me um bom profissional através de novas experiências.
@@ -23,7 +23,7 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 
 ## Experiência e conhecimentos
 
-- Linguagens de programação – (C, Java - Orientado a objeto, Java script, CSS, HTML, PHP e Haskell)
+- Linguagens de programação – (C, Java - Orientado a objeto, HTML, CSS, JavaScript, PHP e Haskell)
 - Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
 - Framework angular e Laravel
 - Participação no Startup Weekend 2022 – Joinville
@@ -44,7 +44,11 @@ Imagem: click aqui!
 [selmin01](https://github.com/selmin01)
 Projects by selmin01 can be found on GitHub
 
+
+
 ## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anselmogabriel421@gmail.com)
 
 Telefone: (47)99227-2731 - Email: anselmogabriel421@gmail.com
 
