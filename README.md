@@ -1,7 +1,7 @@
 # Gabriel Anselmo 
 
 Esse é meu site de portfolio, sou programador, estudante de ciencia da computação - UDESC
-Mineiro de Belo Horizonte 
+mineiro de Belo Horizonte 
 
 Objetivo
 
