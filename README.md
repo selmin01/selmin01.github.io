@@ -1,6 +1,6 @@
-# Potfolio de Gabriel Anselmo 
+# Gabriel Anselmo 
 
-Esse é meu site de portfolio, seu programador, estudante de ciencia da computação - UDESC
+Esse é meu site de portfolio, sou programador, estudante de ciencia da computação - UDESC
 Mineiro de Belo Horizonte 
 
 Algumas tecnologias que estou estudando:
@@ -12,7 +12,7 @@ Algumas tecnologias que estou estudando:
 
 ## Pessoal
 
-### Git top
+
 
 O cara ai Jordan
 
@@ -21,3 +21,7 @@ O cara ai Jordan
 Imagem: click aqui!
 
 [![Jogadas de basquete](https://media1.giphy.com/media/3oEjHHMtBYjU3MP5yE/200.webp?cid=ecf05e473gwk4abi0rtpgvhedfkq5k5blw9vlr43mpa92vhu&rid=200.webp&ct=g)](https://giphy.com/search/jordan)
+
+### Contato
+
+Telefone: (47)99227-2731 - Email: anselmogabriel421@gmail.com
