@@ -10,13 +10,6 @@ Objetivo
 - Desejo fazer parte do time da empresa oferecendo o melhor.
 - A ordem da empresa ao cargo que me for sugerido.
 
-Algumas tecnologias que estou estudando:
-
-- Angular
-- Laravel
-- Java
-- C
-
 ### Escolaridade
 
   CURSANDO CIÊNCIA DA COMPUTAÇÃO – UDESC (6º PERÍODO)
