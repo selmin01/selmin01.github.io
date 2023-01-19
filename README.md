@@ -36,6 +36,5 @@ Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
 ## Contato
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-Telefone: (47)99227-2731 - Email: anselmogabriel421@gmail.com
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() Email: anselmogabriel421@gmail.com
 
