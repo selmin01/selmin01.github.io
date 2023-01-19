@@ -29,8 +29,7 @@ Software Developer (programador), facilidade no uso de computadores (Windows e L
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
-ASS: Gabriel Anselmo Ramos
-
+ASS: Gabriel Anselmo Ramos <br>
 Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 
 
