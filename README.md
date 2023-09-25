@@ -38,6 +38,7 @@ Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
 ## Contato
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Selmin01) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-anselmo-9b577a220)
 
 <hr>
 **ASS: Gabriel Anselmo Ramos**
