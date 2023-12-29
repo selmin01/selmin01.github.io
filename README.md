@@ -27,6 +27,7 @@ Software Developer (programador), facilidade no uso de computadores (Windows, Li
 - ⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
 - ⚒️ Framework angular e Laravel
 - ⚒️ Automação com Python
+- ⚒️ Git, Tailwind e API Rest
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
