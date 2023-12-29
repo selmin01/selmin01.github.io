@@ -19,13 +19,14 @@ mineiro de Belo Horizonte
 
 ### Habilidades e Competências
 
-Software Developer (programador), facilidade no uso de computadores (Windows e Linux), Técnico em Informática – SENAI-SC, Parcerias Estratégicas empreendedorismo e inovação.
+Software Developer (programador), facilidade no uso de computadores (Windows, Linux e Mac), Técnico em Informática – SENAI-SC, Experiência em empreendedorismo e inovação, especializado no desenvolvimento e gestão de parcerias estratégicas como desenvolvimento de produtos e novos negócios. (Membro do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC)
 
 ## Experiência e conhecimentos
 
-- ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, HTML, CSS, JavaScript, PHP e Haskell)
+- ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, Python, HTML, CSS, JavaScript, PHP e Haskell)
 - ⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
 - ⚒️ Framework angular e Laravel
+- ⚒️ Automação com Python
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
  
