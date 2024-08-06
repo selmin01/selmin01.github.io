@@ -40,7 +40,7 @@ O2projetos – Joinville SC
  - Desenvolvimento e Arquitetura de Sistema: Participei ativamente no desenvolvimento e na arquitetura do sistema [Vektor Connect](https://vektor.connect.o2projetos.com.br/login) em Santa Catarina, contribuindo para a sua robustez e escalabilidade.
  - Administração de Servidores: Atualizei e configurei um servidor Linux para a execução de aplicações web utilizando Python e React, assegurando um ambiente de produção estável e seguro.
 
- ## Trabalhos individuais  
+## Trabalhos individuais  
 
 - Criação de Lead Pages: Projetei e implementei lead pages altamente eficazes para [Intec](https://www.intecenergia.com.br/) e [Convap Engenharia](http://www.convap.com.br/), melhorando significativamente a divulgação e a presença online dessas empresas.
 
