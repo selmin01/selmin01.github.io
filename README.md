@@ -30,7 +30,20 @@ Software Developer (programador), facilidade no uso de computadores (Windows, Li
 - ⚒️ Git, Tailwind e API Rest
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
 - ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
- 
+
+## Desenvolvedor de Software
+O2projetos – Joinville SC
+
+ - Desenvolvimento de API Automatizada: Criei uma API em Python para disparo automático de emails via Gmail, proporcionando uma solução eficiente e econômica para comunicação automática.
+ - Automação de Processos: Desenvolvi um bot de automação que realiza logins em sites, otimizando processos repetitivos e economizando tempo para os usuários.
+ - Implementação de Segurança: Criei um sistema de autenticação de dois fatores (2FA) em Angular com Laravel para login em uma plataforma financeira, aumentando significativamente a segurança dos usuários.
+ - Desenvolvimento e Arquitetura de Sistema: Participei ativamente no desenvolvimento e na arquitetura do sistema [Vektor Connect](https://vektor.connect.o2projetos.com.br/login) em Santa Catarina, contribuindo para a sua robustez e escalabilidade.
+ - Administração de Servidores: Atualizei e configurei um servidor Linux para a execução de aplicações web utilizando Python e React, assegurando um ambiente de produção estável e seguro.
+
+ ## Trabalhos individuais  
+
+- Criação de Lead Pages: Projetei e implementei lead pages altamente eficazes para [Intec](https://www.intecenergia.com.br/) e [Convap Engenharia](http://www.convap.com.br/), melhorando significativamente a divulgação e a presença online dessas empresas.
+
 
 Email: [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
 
