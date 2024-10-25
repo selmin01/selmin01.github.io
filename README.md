@@ -19,7 +19,7 @@ mineiro de Belo Horizonte
 
 ### Habilidades e Competências
 
-Software Developer (programador), facilidade no uso de computadores (Windows, Linux e Mac), Técnico em Informática – SENAI-SC, Experiência em empreendedorismo e inovação, especializado no desenvolvimento e gestão de parcerias estratégicas como desenvolvimento de produtos e novos negócios. (Membro do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC)
+Desenvolvedor de Software Full Stack, com mais de 1 ano de experiência em Angular e Laravel, especializado no desenvolvimento de aplicações web. Possuo facilidade no uso de diferentes sistemas operacionais (Windows, Linux e Mac) e formação como Técnico em Informática pelo SENAI-SC. Tenho experiência em empreendedorismo e inovação, com foco no desenvolvimento e gestão de parcerias estratégicas, incluindo desenvolvimento de produtos e novos negócios. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC.
 
 ## Experiência e conhecimentos
 
