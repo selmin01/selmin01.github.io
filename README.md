@@ -23,7 +23,7 @@ Software Developer (programador), facilidade no uso de computadores (Windows, Li
 
 ## Experiência e conhecimentos
 
-- ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, Python, HTML, CSS, JavaScript, PHP e Haskell)
+- ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, Python, Node.js, HTML, CSS, JavaScript, PHP e Haskell)
 - ⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
 - ⚒️ Framework angular e Laravel
 - ⚒️ Automação com Python
