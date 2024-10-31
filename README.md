@@ -39,6 +39,7 @@ O2projetos – Joinville SC
  - Implementação de Segurança: Criei um sistema de autenticação de dois fatores (2FA) em Angular com Laravel para login em uma plataforma financeira, aumentando significativamente a segurança dos usuários.
  - Desenvolvimento e Arquitetura de Sistema: Participei ativamente no desenvolvimento e na arquitetura do sistema [Vektor Connect](https://vektor.connect.o2projetos.com.br/login) em Santa Catarina, contribuindo para a sua robustez e escalabilidade.
  - Administração de Servidores: Atualizei e configurei um servidor Linux para a execução de aplicações web utilizando Python e React, assegurando um ambiente de produção estável e seguro.
+ - Configuração e gerenciamento de subdomínios usando o AWS Route 53. Criei registros DNS personalizados para subdomínios, incluindo configuração de zonas de hospedagem e direcionamento de tráfego para serviços específicos, garantindo a resolução de nomes para subdomínios em aplicações web.
 
 ## Trabalhos individuais  
 
