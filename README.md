@@ -1,7 +1,8 @@
 # Gabriel Anselmo Ramos
 
-Esse é meu site de portfolio, sou programador, estudante de ciencia da computação - UDESC
-mineiro de Belo Horizonte 
+Programador Full Stack | Mineiro de Belo Horizonte | Último semestre de Ciência da Computação - UDESC/CCT  
+[GitHub](https://github.com/selmin01) | [Telegram](https://t.me/telegram_handle) | [LinkedIn](https://linkedin.com/in/linkedin_handle)  
+**Email**: anselmogabriel421@gmail.com  
 
 ### Objetivo
 
@@ -19,13 +20,13 @@ mineiro de Belo Horizonte
 
 ### Habilidades e Competências
 
-Desenvolvedor de Software Full Stack, com mais de 1 ano de experiência em Angular e Laravel, especializado no desenvolvimento de aplicações web. Possuo facilidade no uso de diferentes sistemas operacionais (Windows, Linux e Mac) e formação como Técnico em Informática pelo SENAI-SC. Tenho experiência em empreendedorismo e inovação, com foco no desenvolvimento e gestão de parcerias estratégicas, incluindo desenvolvimento de produtos e novos negócios. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC.
+Desenvolvedor de Software Full Stack, com mais de 1 ano de experiência em Angular, Laravel e Node.js, especializado no desenvolvimento de aplicações web. Possuo facilidade no uso de diferentes sistemas operacionais (Windows, Linux e Mac) e formação como Técnico em Informática pelo SENAI-SC. Tenho experiência em empreendedorismo e inovação, com foco no desenvolvimento e gestão de parcerias estratégicas, incluindo desenvolvimento de produtos e novos negócios. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC.
 
 ## Experiência e conhecimentos
 
 - ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, Python, Node.js, HTML, CSS, JavaScript, PHP e Haskell)
-- ⚒️ Banco de dados MySql, postgresql e um breve conhecimento de mongoDB
-- ⚒️ Framework angular e Laravel
+- ⚒️ Banco de dados MySql, MongoDB (básico)
+- ⚒️ Framework Angular Laravel e ReactJS (básico)
 - ⚒️ Automação com Python
 - ⚒️ Git, Tailwind e API Rest
 - ⚒️ Participação no Startup Weekend 2022 – Joinville
