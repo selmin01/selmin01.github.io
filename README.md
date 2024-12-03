@@ -1,62 +1,103 @@
 # Gabriel Anselmo Ramos
 
-Programador Full Stack | Mineiro de Belo Horizonte | Último semestre de Ciência da Computação - UDESC/CCT  
+Desenvolvedor Full Stack | Mineiro de Belo Horizonte | Último semestre de Ciência da Computação - UDESC/CCT  
 [GitHub](https://github.com/selmin01) | [Telegram](https://t.me/telegram_handle) | [LinkedIn](https://linkedin.com/in/linkedin_handle)  
 **Email**: anselmogabriel421@gmail.com  
 
-### Objetivo
+---
 
-- Crescer no mercado de trabalho e adquirir novos conhecimentos.
-- Torna-me um bom profissional através de novas experiências.
-- Desejo fazer parte do time da empresa oferecendo o melhor.
-- A ordem da empresa ao cargo que me for servido.
+## 🎯 Objetivo
 
-### Escolaridade
+- **Crescimento Profissional**: Expandir conhecimentos e habilidades no mercado de trabalho.
+- **Desenvolvimento de Carreira**: Aprimorar-me através de novas experiências e desafios.
+- **Contribuição Valiosa**: Fazer parte de um time onde eu possa oferecer o meu  melhor.
+- **Adaptabilidade**: Alinhar-me às necessidades da empresa e do cargo atribuído.
 
-- CURSANDO CIÊNCIA DA COMPUTAÇÃO – UDESC (8º PERÍODO)
-- SENAI-SC - CURSO TÉCNICO EM INFORMÁTICA
-- 3º ANO ENSINO MEDIO - EEB PROF. GERMANO TIMM
-- 1º E 2º ANO ENSINO MEDIO - ESCOLA ESTADUAL TRES PODERES
+---
 
-### Habilidades e Competências
+## 🎓 Escolaridade
 
-Desenvolvedor de Software Full Stack, com mais de 1 ano de experiência em Angular, Laravel e Node.js, especializado no desenvolvimento de aplicações web. Possuo facilidade no uso de diferentes sistemas operacionais (Windows, Linux e Mac) e formação como Técnico em Informática pelo SENAI-SC. Tenho experiência em empreendedorismo e inovação, com foco no desenvolvimento e gestão de parcerias estratégicas, incluindo desenvolvimento de produtos e novos negócios. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica - UDESC.
+- **Ciência da Computação** – UDESC (8º Período)
+- **Técnico em Informática** – SENAI-SC
+- **Ensino Médio Completo** – EEB Prof. Germano Timm e Escola Estadual Três Poderes
 
-## Experiência e conhecimentos
+---
 
-- ⚒️ Linguagens de programação – (C, Java - Orientado a objeto, Python, Node.js, HTML, CSS, JavaScript, PHP e Haskell)
-- ⚒️ Banco de dados MySql, MongoDB (básico)
-- ⚒️ Framework Angular Laravel e ReactJS (básico)
-- ⚒️ Automação com Python
-- ⚒️ Git, Tailwind e API Rest
-- ⚒️ Participação no Startup Weekend 2022 – Joinville
-- ⚒️ Participação na sétima e oitava edição da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)
+## 🛠️ Habilidades e Competências
 
-## Desenvolvedor de Software
-O2projetos – Joinville SC
+Desenvolvedor de Software Full Stack com mais de 2 anos de experiência em **Angular, Laravel e Node.js**, especializado no desenvolvimento de aplicações web. Experiência prática com sistemas operacionais **Windows, Linux e Mac**, formação técnica em informática pelo **SENAI-SC**, e participação em projetos de empreendedorismo e inovação. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica – UDESC.
 
- - Desenvolvimento de API Automatizada: Criei uma API em Python para disparo automático de emails via Gmail, proporcionando uma solução eficiente e econômica para comunicação automática.
- - Automação de Processos: Desenvolvi um bot de automação que realiza logins em sites, otimizando processos repetitivos e economizando tempo para os usuários.
- - Implementação de Segurança: Criei um sistema de autenticação de dois fatores (2FA) em Angular com Laravel para login em uma plataforma financeira, aumentando significativamente a segurança dos usuários.
- - Desenvolvimento e Arquitetura de Sistema: Participei ativamente no desenvolvimento e na arquitetura do sistema [Vektor Connect](https://vektor.connect.o2projetos.com.br/login) em Santa Catarina, contribuindo para a sua robustez e escalabilidade.
- - Administração de Servidores: Atualizei e configurei um servidor Linux para a execução de aplicações web utilizando Python e React, assegurando um ambiente de produção estável e seguro.
- - Configuração e gerenciamento de subdomínios usando o AWS Route 53. Criei registros DNS personalizados para subdomínios, incluindo configuração de zonas de hospedagem e direcionamento de tráfego para serviços específicos, garantindo a resolução de nomes para subdomínios em aplicações web.
+---
 
-## Trabalhos individuais  
+## 💡 Experiência e Conhecimentos
 
-- Criação de Lead Pages: Projetei e implementei lead pages altamente eficazes para [Intec](https://www.intecenergia.com.br/) e [Convap Engenharia](http://www.convap.com.br/), melhorando significativamente a divulgação e a presença online dessas empresas.
+- **Linguagens de Programação**: C, Java (Orientado a Objeto), Python, Node.js, HTML, CSS, JavaScript, TypeScript, PHP, Haskell
+- **Banco de Dados**: MySQL e MongoDB (básico)
+- **Frameworks**: Angular, Laravel, ReactJS (básico)
+- **Automação**: Python
+- **Ferramentas e Tecnologias**: Git, Tailwind CSS, API Rest
+- **Eventos e Competências**:
+  - Participação no **Startup Weekend 2022** – Joinville
+  - Participação na **7ª e 8ª edições da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)**
 
+---
 
-Email: [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
+## 👨‍💻 Experiência Profissional
 
-Projects by [selmin01](https://github.com/selmin01) can be found on GitHub
+### O2Projetos – Joinville SC
 
+### **Desenvolvedor Full Stack**  
+Iniciei a carreira realizando manutenção em sistemas existentes, corrigindo bugs e implementando atualizações. Trabalhei com as tecnologias **Angular** no frontend e **Laravel** no backend, aprimorando funcionalidades e garantindo a estabilidade das aplicações. 
 
-## Contato
+### **Desenvolvimento**  
+- Desenvolvi uma **API em Python** para envio automático de e-mails utilizando o **Gmail**, oferecendo uma solução eficiente e econômica para comunicação automatizada.  
+- Implementei uma **API em Python** integrada com a **API do ChatGPT** para leitura e processamento de PDFs, permitindo a extração e organização dos dados de maneira prática e eficaz, facilitando análises detalhadas e otimizando processos.  
+- **Automação de Processos**: Desenvolvimento de um bot de automação para logins em sites, otimizando tarefas repetitivas e economizando tempo dos usuários, utilizando Selenium.
+- **Implementação de Segurança**: Implementação de autenticação de dois fatores (2FA) em Angular com Laravel, aumentando a segurança de uma plataforma financeira. Interface da aplicação com HTML, CSS (utilizando Tailwind CSS) e TypeScript, enquanto no backend trabalhei com PHP usando o framework Laravel.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Selmin01) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-anselmo-9b577a220)
+- **Desenvolvimento e Arquitetura de Sistema**:  
+  Participei ativamente da arquitetura do sistema **[Vektor Connect](https://connect.vektorenergia.com.br/login)**, contribuindo para sua escalabilidade e robustez.  
+  - **Infraestrutura**: Configurei os ambientes de produção e teste, com o redirecionamento de URLs (API e WEB) e automatizei o deploy utilizando o **Laravel Forge**.  
+  - **Banco de Dados**: Gerencia do banco de dados **MySQL**, garantindo o desempenho e integridade dos dados.  
+  - **Controle de Versões**: Utilizei **Git** para controle de versões e gerenciamento de atualizações do código.  
+  - **Backend**: Desenvolvi com arquitetura **MVC** com Liguagem Node.js, criando rotas e lógicas necessárias para o cadastro e manipulação de dados.  
+  - **Frontend**: Implementei a lógica de negócios e as regras administrativas na plataforma utilizando **Angular**, garantindo uma experiência de usuário eficiente e consistente.  
 
-<hr>
-**ASS: Gabriel Anselmo Ramos**
+- **Gerenciamento de Subdomínios**: Configuração de DNS e subdomínios no AWS Route 53, garantindo resolução eficiente para serviços específicos.
 
+### **Administração de Servidores**  
+Experiência na configuração e administração de servidores Linux voltados para hospedagem de aplicações web. Configurou servidores para executar aplicações desenvolvidas em **Python** e **React**, gerenciando todo o processo de **build** e implementando pipelines para **deploy automatizado**, garantindo eficiência e segurança no ambiente de produção.  
+
+Utilizei o **PM2** como gerenciador de processos, permitindo a execução contínua e estável das aplicações em produção. Essa experiência assegura a capacidade de gerenciar ambientes de produção de forma confiável e eficiente, priorizando estabilidade e segurança.
+
+---
+
+## 📈 Trabalhos Individuais
+
+### Criação do OuterSpace
+
+Desenvolvimento, em equipe, do jogo **OuterSpace** como trabalho final de conclusão do curso técnico no SENAI. Inspirado na nostalgia dos jogos de Atari, o projeto foi recriado para a web utilizando **JavaScript** e **PHP**, proporcionando uma experiência clássica e envolvente aos usuários.
+
+Repositório do projeto: [Outer_Space](https://github.com/selmin01/Outer_Space.git) 🚀.
+
+### **Implementação com Java**  
+Desenvolvi habilidades sólidas em **Programação Orientada a Objetos (POO)** com Java durante a faculdade, incluindo a criação de uma aplicação completa com funcionalidade de CRUD, utilizando o banco de dados **PostgreSQL**. Além disso, Desenvolvi uma **API RESTful** em Java com **Spring Boot** para a disciplina de Programação para Dispositivos Móveis, permitindo a integração com um aplicativo desenvolvido em **Android** e **Kotlin**.  
+
+Repositório do projeto: [PDM_JavaMobile](https://github.com/selmin01/PDM_JavaMobile.git) 🚀  
+
+###**Criação de Lead Pages**
+Projetei e implementei páginas de captação para **[Intec](http://intecenergia.com.br/)** e **[Convap Engenharia](http://www.convap.com.br/)**, aumentando a visibilidade e presença online dessas empresas. (HTML, CSS e JavaScript sem uso de framework)
+
+### **Estudo de Análise de Dados e Inteligência Artificial**  
+Aprofundou conhecimentos em **Streamlit**, explorando sua aplicação para análise de dados e criação de dashboards interativos com **Python**, proporcionando visualizações dinâmicas e práticas para suporte à tomada de decisão. Paralelamente, realizei pesquisas sobre **treinamento de modelos de inteligência artificial** e suas aplicações, adquirindo habilidades em desenvolvimento e otimização de soluções baseadas em IA, voltadas para análise de dados e automação de processos. 
+
+---
+
+## 📬 Contato
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge)](https://t.me/telegram_handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/linkedin_handle)
+
+---
+
+**ASS**: Gabriel Anselmo Ramos
