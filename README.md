@@ -65,7 +65,7 @@ Responsável pelo desenvolvimento e evolução de aplicações voltadas à trans
 
 **AgroPulse — Plataforma de Inteligência Operacional**
 
-Desenvolvimento de uma plataforma para análise operacional da entrada de cana na indústria.
+Desenvolvimento de uma plataforma para análise operacional da entrada de cana para moagem na indústria.
 
 **Principais entregas**
 
