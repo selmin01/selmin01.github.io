@@ -1,103 +1,113 @@
 # Gabriel Anselmo Ramos
 
-Desenvolvedor Full Stack | Mineiro de Belo Horizonte | Último semestre de Ciência da Computação - UDESC/CCT  
-[GitHub](https://github.com/selmin01) | [Telegram](https://t.me/telegram_handle) | [LinkedIn](https://linkedin.com/in/linkedin_handle)  
-**Email**: anselmogabriel421@gmail.com  
+**Analista de Sistemas | Software Engineering, Integrações e Transformação Digital**
+
+Joinville, Santa Catarina, Brasil
+**E-mail:** [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
+**LinkedIn:** linkedin.com/in/gabriel-anselmo-ramos-9b577a220
+**GitHub:** github.com/selmin01
 
 ---
 
-## 🎯 Objetivo
+## Resumo profissional
 
-- **Crescimento Profissional**: Expandir conhecimentos e habilidades no mercado de trabalho.
-- **Desenvolvimento de Carreira**: Aprimorar-me através de novas experiências e desafios.
-- **Contribuição Valiosa**: Fazer parte de um time onde eu possa oferecer o meu  melhor.
-- **Adaptabilidade**: Alinhar-me às necessidades da empresa e do cargo atribuído.
+Analista de Sistemas com experiência em desenvolvimento de aplicações corporativas, integrações, automação de processos e análise de dados em ambiente industrial.
 
----
+Atuação com **React, TypeScript, C#, .NET, PostgreSQL e Linux**, desenvolvendo soluções integradas a ERP, serviços Microsoft e plataformas externas. Experiência desde o levantamento de requisitos até desenvolvimento, implantação, monitoramento e suporte às aplicações.
 
-## 🎓 Escolaridade
-
-- **Ciência da Computação** – UDESC (8º Período)
-- **Técnico em Informática** – SENAI-SC
-- **Ensino Médio Completo** – EEB Prof. Germano Timm e Escola Estadual Três Poderes
+Perfil orientado à transformação digital, eficiência operacional, rastreabilidade de processos e tomada de decisão baseada em dados.
 
 ---
 
-## 🛠️ Habilidades e Competências
+## Competências técnicas
 
-Desenvolvedor de Software Full Stack com mais de 2 anos de experiência em **Angular, Laravel e Node.js**, especializado no desenvolvimento de aplicações web. Experiência prática com sistemas operacionais **Windows, Linux e Mac**, formação técnica em informática pelo **SENAI-SC**, e participação em projetos de empreendedorismo e inovação. Participei do projeto de extensão i9, Núcleo Estudantil de Inovação Tecnológica – UDESC.
-
----
-
-## 💡 Experiência e Conhecimentos
-
-- **Linguagens de Programação**: C, Java (Orientado a Objeto), Python, Node.js, HTML, CSS, JavaScript, TypeScript, PHP, Haskell
-- **Banco de Dados**: MySQL e MongoDB (básico)
-- **Frameworks**: Angular, Laravel, ReactJS (básico)
-- **Automação**: Python
-- **Ferramentas e Tecnologias**: Git, Tailwind CSS, API Rest
-- **Eventos e Competências**:
-  - Participação no **Startup Weekend 2022** – Joinville
-  - Participação na **7ª e 8ª edições da Jornada de Empreendedorismo, Desenvolvimento e Inovação (JEDI)**
+**Desenvolvimento:** C#, .NET, ASP.NET Core, React, TypeScript, JavaScript, Python
+**Dados:** PostgreSQL, SQL, Entity Framework Core, Power BI, pandas
+**Infraestrutura e DevOps:** Linux, Docker, Nginx, Kestrel, systemd, Git, GitHub Actions
+**Integrações:** REST APIs, TOTVS RM, Microsoft Graph, SharePoint, Microsoft Entra ID
+**Automação e monitoramento:** n8n, Grafana, Selenium
 
 ---
 
-## 👨‍💻 Experiência Profissional
+## Experiência profissional
 
-### O2Projetos – Joinville SC
+### Usina Sonora S/A
 
-### **Desenvolvedor Full Stack**  
-Iniciei a carreira realizando manutenção em sistemas existentes, corrigindo bugs e implementando atualizações. Trabalhei com as tecnologias **Angular** no frontend e **Laravel** no backend, aprimorando funcionalidades e garantindo a estabilidade das aplicações. 
+**Analista de Sistemas**
+**Julho de 2025 – atual**
 
-### **Desenvolvimento**  
-- Desenvolvi uma **API em Python** para envio automático de e-mails utilizando o **Gmail**, oferecendo uma solução eficiente e econômica para comunicação automatizada.  
-- Implementei uma **API em Python** integrada com a **API do ChatGPT** para leitura e processamento de PDFs, permitindo a extração e organização dos dados de maneira prática e eficaz, facilitando análises detalhadas e otimizando processos.  
-- **Automação de Processos**: Desenvolvimento de um bot de automação para logins em sites, otimizando tarefas repetitivas e economizando tempo dos usuários, utilizando Selenium.
-- **Implementação de Segurança**: Implementação de autenticação de dois fatores (2FA) em Angular com Laravel, aumentando a segurança de uma plataforma financeira. Interface da aplicação com HTML, CSS (utilizando Tailwind CSS) e TypeScript, enquanto no backend trabalhei com PHP usando o framework Laravel.
+Atuação no desenvolvimento e evolução de soluções corporativas para uma indústria do setor sucroenergético.
 
-- **Desenvolvimento e Arquitetura de Sistema**:  
-  Participei ativamente da arquitetura do sistema **[Vektor Connect](https://connect.vektorenergia.com.br/login)**, contribuindo para sua escalabilidade e robustez.  
-  - **Infraestrutura**: Configurei os ambientes de produção e teste, com o redirecionamento de URLs (API e WEB) e automatizei o deploy utilizando o **Laravel Forge**.  
-  - **Banco de Dados**: Gerencia do banco de dados **MySQL**, garantindo o desempenho e integridade dos dados.  
-  - **Controle de Versões**: Utilizei **Git** para controle de versões e gerenciamento de atualizações do código.  
-  - **Backend**: Desenvolvi com arquitetura **MVC** com Liguagem Node.js, criando rotas e lógicas necessárias para o cadastro e manipulação de dados.  
-  - **Frontend**: Implementei a lógica de negócios e as regras administrativas na plataforma utilizando **Angular**, garantindo uma experiência de usuário eficiente e consistente.  
+* Desenvolvo aplicações com **React, TypeScript, .NET e PostgreSQL**, participando desde o levantamento de requisitos até a implantação e o suporte.
+* Construo APIs e integrações com **TOTVS RM, Microsoft Graph, SharePoint, Microsoft Entra ID** e plataformas externas.
+* Digitalizo processos de solicitações, aprovações, documentos e contratos, aumentando a rastreabilidade e reduzindo controles manuais.
+* Desenvolvo dashboards e análises operacionais para acompanhamento de pesagens, produtividade, metas e indicadores industriais.
+* Implanto e mantenho aplicações em servidores **Ubuntu**, utilizando Nginx, Kestrel, systemd, PostgreSQL e práticas de monitoramento.
+* Colaboro com áreas administrativas e operacionais na identificação de problemas e criação de soluções alinhadas às necessidades do negócio.
 
-- **Gerenciamento de Subdomínios**: Configuração de DNS e subdomínios no AWS Route 53, garantindo resolução eficiente para serviços específicos.
+#### Projetos internos selecionados
 
-### **Administração de Servidores**  
-Experiência na configuração e administração de servidores Linux voltados para hospedagem de aplicações web. Configurou servidores para executar aplicações desenvolvidas em **Python** e **React**, gerenciando todo o processo de **build** e implementando pipelines para **deploy automatizado**, garantindo eficiência e segurança no ambiente de produção.  
+**Plataforma de Gestão de Contratos**
 
-Utilizei o **PM2** como gerenciador de processos, permitindo a execução contínua e estável das aplicações em produção. Essa experiência assegura a capacidade de gerenciar ambientes de produção de forma confiável e eficiente, priorizando estabilidade e segurança.
+Solução corporativa criada para centralizar solicitações, documentos, responsáveis, status e histórico do processo contratual.
 
----
+* Integração com ERP, SharePoint, autenticação corporativa e assinatura eletrônica.
+* Questionários dinâmicos, fluxos de aprovação, gestão documental e acompanhamento das solicitações.
+* Desenvolvimento com **React, TypeScript, .NET, PostgreSQL, Microsoft Graph e TOTVS RM**.
 
-## 📈 Trabalhos Individuais
+**AgroPulse — Inteligência Operacional Industrial**
 
-### Criação do OuterSpace
+Plataforma interna criada para analisar de forma operacional e inteligente a entrada de cana na indústria.
 
-Desenvolvimento, em equipe, do jogo **OuterSpace** como trabalho final de conclusão do curso técnico no SENAI. Inspirado na nostalgia dos jogos de Atari, o projeto foi recriado para a web utilizando **JavaScript** e **PHP**, proporcionando uma experiência clássica e envolvente aos usuários.
-
-Repositório do projeto: [Outer_Space](https://github.com/selmin01/Outer_Space.git) 🚀.
-
-### **Implementação com Java**  
-Desenvolvi habilidades sólidas em **Programação Orientada a Objetos (POO)** com Java durante a faculdade, incluindo a criação de uma aplicação completa com funcionalidade de CRUD, utilizando o banco de dados **PostgreSQL**. Além disso, Desenvolvi uma **API RESTful** em Java com **Spring Boot** para a disciplina de Programação para Dispositivos Móveis, permitindo a integração com um aplicativo desenvolvido em **Android** e **Kotlin**.  
-
-Repositório do projeto: [PDM_JavaMobile](https://github.com/selmin01/PDM_JavaMobile.git) 🚀  
-
-###**Criação de Lead Pages**
-Projetei e implementei páginas de captação para **[Intec](http://intecenergia.com.br/)** e **[Convap Engenharia](http://www.convap.com.br/)**, aumentando a visibilidade e presença online dessas empresas. (HTML, CSS e JavaScript sem uso de framework)
-
-### **Estudo de Análise de Dados e Inteligência Artificial**  
-Aprofundou conhecimentos em **Streamlit**, explorando sua aplicação para análise de dados e criação de dashboards interativos com **Python**, proporcionando visualizações dinâmicas e práticas para suporte à tomada de decisão. Paralelamente, realizei pesquisas sobre **treinamento de modelos de inteligência artificial** e suas aplicações, adquirindo habilidades em desenvolvimento e otimização de soluções baseadas em IA, voltadas para análise de dados e automação de processos. 
+* Monitoramento de toneladas, viagens, ritmo de entrada, eficiência por carga e cumprimento de metas.
+* Alertas operacionais, projeções, comparações históricas e exportação de relatórios executivos.
+* Visualizações com séries temporais, mapas de calor, distribuições, boxplots e indicadores em tempo real.
+* Desenvolvimento com **React, TypeScript, C#, .NET, PostgreSQL e APIs REST**.
 
 ---
 
-## 📬 Contato
+### O2Projetos
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge)](https://t.me/telegram_handle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/linkedin_handle)
+**Desenvolvedor Full Stack**
+
+* Desenvolvi e mantive aplicações corporativas utilizando **Angular, Laravel, Node.js, Python e MySQL**.
+* Implementei APIs, regras de negócio, autenticação em duas etapas e integrações com serviços externos.
+* Criei automações em Python para envio de e-mails, leitura de documentos e execução de tarefas repetitivas.
+* Participei da implantação e manutenção de aplicações em servidores Linux, utilizando PM2, Laravel Forge e AWS Route 53.
+* Contribuí para a arquitetura e evolução de uma plataforma web, atuando em frontend, backend, banco de dados e infraestrutura.
 
 ---
 
-**ASS**: Gabriel Anselmo Ramos
+## Projetos e pesquisa
+
+### Análise preditiva de alertas críticos
+
+Projeto de análise de dados para antecipar alertas críticos de frota por meio do cruzamento entre telemetria e apontamentos operacionais.
+
+**Tecnologias:** Python, pandas, DuckDB, Parquet, Machine Learning e Streamlit.
+
+### Nine Box — Trabalho de Conclusão de Curso
+
+Desenvolvimento e avaliação de uma solução computacional para análise de desempenho e potencial utilizando a metodologia Nine Box.
+
+* Construção da aplicação e das visualizações analíticas.
+* Cálculo de indicadores de desempenho e potencial.
+* Avaliação da solução por meio de grupo focal.
+
+---
+
+## Formação acadêmica
+
+**Bacharelado em Ciência da Computação**
+Universidade do Estado de Santa Catarina — UDESC
+Conclusão: 2026
+
+**Técnico em Informática**
+SENAI Santa Catarina
+
+---
+
+## Idiomas
+
+**Português:** nativo
+**Inglês:** intermediário
