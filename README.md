@@ -1,113 +1,179 @@
 # Gabriel Anselmo Ramos
 
-**Analista de Sistemas | Software Engineering, Integrações e Transformação Digital**
+## Analista de Sistemas | Software Engineer | Integração de Sistemas | Transformação Digital
 
-Joinville, Santa Catarina, Brasil
-**E-mail:** [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
-**LinkedIn:** linkedin.com/in/gabriel-anselmo-ramos-9b577a220
-**GitHub:** github.com/selmin01
-
----
-
-## Resumo profissional
-
-Analista de Sistemas com experiência em desenvolvimento de aplicações corporativas, integrações, automação de processos e análise de dados em ambiente industrial.
-
-Atuação com **React, TypeScript, C#, .NET, PostgreSQL e Linux**, desenvolvendo soluções integradas a ERP, serviços Microsoft e plataformas externas. Experiência desde o levantamento de requisitos até desenvolvimento, implantação, monitoramento e suporte às aplicações.
-
-Perfil orientado à transformação digital, eficiência operacional, rastreabilidade de processos e tomada de decisão baseada em dados.
+📍 Joinville, SC – Brasil
+📧 [anselmogabriel421@gmail.com](mailto:anselmogabriel421@gmail.com)
+💼 LinkedIn: linkedin.com/in/gabriel-anselmo-ramos-9b577a220
+💻 GitHub: github.com/selmin01
 
 ---
 
-## Competências técnicas
+# Resumo Profissional
 
-**Desenvolvimento:** C#, .NET, ASP.NET Core, React, TypeScript, JavaScript, Python
-**Dados:** PostgreSQL, SQL, Entity Framework Core, Power BI, pandas
-**Infraestrutura e DevOps:** Linux, Docker, Nginx, Kestrel, systemd, Git, GitHub Actions
-**Integrações:** REST APIs, TOTVS RM, Microsoft Graph, SharePoint, Microsoft Entra ID
-**Automação e monitoramento:** n8n, Grafana, Selenium
+Analista de Sistemas com experiência no desenvolvimento de aplicações corporativas, integrações, automação de processos e análise de dados para o setor industrial.
+
+Atuo desde o levantamento de requisitos até o desenvolvimento, implantação e sustentação de soluções utilizando **React, TypeScript, C#, .NET, PostgreSQL e Linux**. Tenho experiência em integrações com **TOTVS RM, Microsoft Graph, SharePoint e APIs REST**, desenvolvendo sistemas que aumentam a eficiência operacional, reduzem processos manuais e melhoram a tomada de decisão baseada em dados.
 
 ---
 
-## Experiência profissional
+# Competências Técnicas
 
-### Usina Sonora S/A
+**Linguagens**
+C# • TypeScript • JavaScript • Python • SQL
 
-**Analista de Sistemas**
-**Julho de 2025 – atual**
+**Frontend**
+React • Tailwind CSS • shadcn/ui • HTML • CSS
 
-Atuação no desenvolvimento e evolução de soluções corporativas para uma indústria do setor sucroenergético.
+**Backend**
+.NET • ASP.NET Core • Entity Framework Core • REST APIs
 
-* Desenvolvo aplicações com **React, TypeScript, .NET e PostgreSQL**, participando desde o levantamento de requisitos até a implantação e o suporte.
-* Construo APIs e integrações com **TOTVS RM, Microsoft Graph, SharePoint, Microsoft Entra ID** e plataformas externas.
-* Digitalizo processos de solicitações, aprovações, documentos e contratos, aumentando a rastreabilidade e reduzindo controles manuais.
-* Desenvolvo dashboards e análises operacionais para acompanhamento de pesagens, produtividade, metas e indicadores industriais.
-* Implanto e mantenho aplicações em servidores **Ubuntu**, utilizando Nginx, Kestrel, systemd, PostgreSQL e práticas de monitoramento.
-* Colaboro com áreas administrativas e operacionais na identificação de problemas e criação de soluções alinhadas às necessidades do negócio.
+**Banco de Dados**
+PostgreSQL • MySQL
 
-#### Projetos internos selecionados
+**Infraestrutura**
+Linux • Docker • Nginx • Git • GitHub Actions
+
+**Integrações**
+TOTVS RM • Microsoft Graph • Microsoft Entra ID • SharePoint • APIs REST
+
+**Dados e Automação**
+Power BI • Grafana • n8n • pandas • Selenium
+
+---
+
+# Experiência Profissional
+
+## Usina Sonora S/A
+
+### Analista de Sistemas
+
+**Julho/2025 – Atual**
+
+Responsável pelo desenvolvimento e evolução de aplicações voltadas à transformação digital e otimização de processos industriais.
+
+**Principais resultados**
+
+* Desenvolvimento de aplicações corporativas utilizando React, TypeScript, .NET e PostgreSQL.
+* Integração entre sistemas internos, TOTVS RM, Microsoft Graph, SharePoint e serviços externos.
+* Digitalização de processos administrativos, reduzindo atividades manuais e aumentando a rastreabilidade das informações.
+* Desenvolvimento de dashboards operacionais para acompanhamento de indicadores industriais.
+* Implantação e manutenção de aplicações em servidores Linux utilizando Nginx, Kestrel e PostgreSQL.
+* Apoio técnico às áreas de negócio na definição e evolução de soluções tecnológicas.
+
+### Projetos de destaque
+
+**AgroPulse — Plataforma de Inteligência Operacional**
+
+Desenvolvimento de uma plataforma para análise operacional da entrada de cana na indústria.
+
+**Principais entregas**
+
+* Monitoramento em tempo real da operação da balança.
+* Indicadores de produtividade e eficiência operacional.
+* Alertas inteligentes para desvios operacionais.
+* Comparações históricas e projeções de produção.
+* Dashboard executivo para apoio à tomada de decisão.
+
+**Tecnologias**
+
+React • TypeScript • .NET • PostgreSQL • APIs REST
+
+---
 
 **Plataforma de Gestão de Contratos**
 
-Solução corporativa criada para centralizar solicitações, documentos, responsáveis, status e histórico do processo contratual.
+Sistema corporativo desenvolvido para centralizar o ciclo completo de gestão contratual.
 
-* Integração com ERP, SharePoint, autenticação corporativa e assinatura eletrônica.
-* Questionários dinâmicos, fluxos de aprovação, gestão documental e acompanhamento das solicitações.
-* Desenvolvimento com **React, TypeScript, .NET, PostgreSQL, Microsoft Graph e TOTVS RM**.
+**Principais entregas**
 
-**AgroPulse — Inteligência Operacional Industrial**
+* Questionários dinâmicos.
+* Fluxos de aprovação.
+* Gestão documental.
+* Integração com TOTVS RM.
+* Integração com Microsoft Graph e SharePoint.
+* Integração com plataforma de assinatura eletrônica.
+* Painéis para acompanhamento das solicitações.
 
-Plataforma interna criada para analisar de forma operacional e inteligente a entrada de cana na indústria.
+**Tecnologias**
 
-* Monitoramento de toneladas, viagens, ritmo de entrada, eficiência por carga e cumprimento de metas.
-* Alertas operacionais, projeções, comparações históricas e exportação de relatórios executivos.
-* Visualizações com séries temporais, mapas de calor, distribuições, boxplots e indicadores em tempo real.
-* Desenvolvimento com **React, TypeScript, C#, .NET, PostgreSQL e APIs REST**.
-
----
-
-### O2Projetos
-
-**Desenvolvedor Full Stack**
-
-* Desenvolvi e mantive aplicações corporativas utilizando **Angular, Laravel, Node.js, Python e MySQL**.
-* Implementei APIs, regras de negócio, autenticação em duas etapas e integrações com serviços externos.
-* Criei automações em Python para envio de e-mails, leitura de documentos e execução de tarefas repetitivas.
-* Participei da implantação e manutenção de aplicações em servidores Linux, utilizando PM2, Laravel Forge e AWS Route 53.
-* Contribuí para a arquitetura e evolução de uma plataforma web, atuando em frontend, backend, banco de dados e infraestrutura.
+React • TypeScript • .NET • PostgreSQL • Microsoft Graph • SharePoint • TOTVS RM
 
 ---
 
-## Projetos e pesquisa
+## O2Projetos
 
-### Análise preditiva de alertas críticos
+### Desenvolvedor Full Stack
 
-Projeto de análise de dados para antecipar alertas críticos de frota por meio do cruzamento entre telemetria e apontamentos operacionais.
+Desenvolvimento e evolução de aplicações web corporativas.
 
-**Tecnologias:** Python, pandas, DuckDB, Parquet, Machine Learning e Streamlit.
+**Principais entregas**
 
-### Nine Box — Trabalho de Conclusão de Curso
-
-Desenvolvimento e avaliação de uma solução computacional para análise de desempenho e potencial utilizando a metodologia Nine Box.
-
-* Construção da aplicação e das visualizações analíticas.
-* Cálculo de indicadores de desempenho e potencial.
-* Avaliação da solução por meio de grupo focal.
+* Desenvolvimento Full Stack utilizando Angular, Laravel, Node.js e MySQL.
+* Implementação de APIs REST e regras de negócio.
+* Desenvolvimento de automações utilizando Python e Selenium.
+* Implantação de autenticação em dois fatores (2FA).
+* Configuração de ambientes Linux e automação de deploy.
+* Administração de aplicações utilizando PM2 e Laravel Forge.
 
 ---
 
-## Formação acadêmica
+# Projetos Acadêmicos e Pesquisa
+
+## Nine Box Assessment
+
+Trabalho de Conclusão de Curso voltado ao desenvolvimento de uma solução computacional para avaliação de desempenho e potencial.
+
+**Resultados**
+
+* Aplicação web para análise Nine Box.
+* Dashboard analítico.
+* Avaliação por grupo focal.
+* Pesquisa científica aplicada.
+
+---
+
+## Análise Preditiva de Alertas Críticos
+
+Projeto de Ciência de Dados utilizando telemetria industrial.
+
+**Tecnologias**
+
+Python • DuckDB • pandas • Streamlit • Machine Learning
+
+---
+
+# Formação Acadêmica
 
 **Bacharelado em Ciência da Computação**
-Universidade do Estado de Santa Catarina — UDESC
-Conclusão: 2026
+Universidade do Estado de Santa Catarina (UDESC)
 
 **Técnico em Informática**
 SENAI Santa Catarina
 
 ---
 
-## Idiomas
+# Diferenciais
 
-**Português:** nativo
-**Inglês:** intermediário
+* Desenvolvimento Full Stack
+* Integração entre sistemas corporativos
+* Transformação Digital
+* Business Intelligence
+* Automação de Processos
+* Sistemas Industriais
+* Arquitetura de APIs
+* Levantamento de Requisitos
+* Resolução de Problemas
+* Melhoria Contínua
+  
+---
+
+# Idiomas
+
+Português — Nativo
+
+Inglês — Intermediário
+
+---
+
+
